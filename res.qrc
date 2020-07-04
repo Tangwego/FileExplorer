@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icon/quick_visit.png</file>
+        <file>icon/desktop.png</file>
+        <file>icon/document.png</file>
+        <file>icon/download.png</file>
+        <file>icon/picture.png</file>
+        <file>icon/music.png</file>
+        <file>icon/video.png</file>
+        <file>icon/system_os_disk.png</file>
+        <file>icon/normal_disk.png</file>
+        <file>icon/this_computer.png</file>
+        <file>icon/directory.png</file>
+        <file>icon/file.png</file>
+        <file>icon/left_light.png</file>
+        <file>icon/left_dark.png</file>
+        <file>icon/left_active.png</file>
+        <file>icon/right_active.png</file>
+        <file>icon/right_light.png</file>
+        <file>icon/right_dark.png</file>
+        <file>icon/top_dark.png</file>
+        <file>icon/top_active.png</file>
+        <file>icon/refresh_dark.png</file>
+        <file>icon/refresh_active.png</file>
+        <file>icon/bottom_dark.png</file>
+        <file>icon/bottom_active.png</file>
+    </qresource>
+</RCC>
